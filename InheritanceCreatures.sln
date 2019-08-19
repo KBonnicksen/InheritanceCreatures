@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCreatures", "InheritanceCreatures\InheritanceCreatures.csproj", "{D46F25FE-05C3-4261-AD4A-6E9310AC008D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46F25FE-05C3-4261-AD4A-6E9310AC008D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46F25FE-05C3-4261-AD4A-6E9310AC008D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46F25FE-05C3-4261-AD4A-6E9310AC008D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46F25FE-05C3-4261-AD4A-6E9310AC008D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F059C4B7-67B8-4D44-A601-4CAB4AC1CA05}
+	EndGlobalSection
+EndGlobal
